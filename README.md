@@ -23,8 +23,8 @@ https://github.com/Ghat0tkach/LeetBot-extension/assets/59855919/e07679fa-66da-4a
 Get started with LeetBot by loading the extension into your browser. Simply follow the instructions provided in the extension's documentation.
 To load an unpacked extension in Microsoft Edge for development or testing purposes, you can follow these steps:
 
-1. Prepare Your Extension Files:
-   Organize your extension files in the required structure. This typically includes manifest files (manifest.json), background scripts, content scripts, HTML pages, CSS stylesheets, and any other necessary assets.
+1.Download LeetBot Extension:
+  Download extension from [Here](https://github.com/Ghat0tkach/LeetBot-extension/archive/refs/tags/V1.0.0.zip)
 
 2. Access Browser Extensions Management:
    - Open Microsoft Edge.
