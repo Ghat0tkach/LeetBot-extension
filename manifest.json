@@ -1,8 +1,8 @@
 {
   "manifest_version": 3,
-  "name": "LeetCode Scraper",
+  "name": "LeetBot",
   "version": "1.0",
-  "description": "A browser extension to scrape LeetCode question content.",
+  "description": "A coding assistant aimed at assisting users in writing code in a more efficient manner.",
   "permissions": ["activeTab", "storage", "tabs"],
   "host_permissions": ["http://*/*", "https://*/*"],
   "icons": {
