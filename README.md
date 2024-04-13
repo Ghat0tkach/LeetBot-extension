@@ -24,7 +24,7 @@ Get started with LeetBot by loading the extension into your browser. Simply foll
 To load an unpacked extension in Microsoft Edge for development or testing purposes, you can follow these steps:
 
 1.Download LeetBot Extension:
-  Download extension from [Here](https://github.com/Ghat0tkach/LeetBot-extension/archive/refs/tags/V1.0.0.zip)
+  Download extension from [Here](https://github.com/Ghat0tkach/LeetBot-extension/archive/refs/tags/V1.1.zip)
 
 2. Access Browser Extensions Management:
    - Open Microsoft Edge.
