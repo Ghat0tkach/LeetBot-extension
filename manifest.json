@@ -6,12 +6,12 @@
   "permissions": ["activeTab", "storage", "tabs"],
   "host_permissions": ["http://*/*", "https://*/*"],
   "icons": {
-    "16": "vite.svg",
-    "48": "vite.svg",
-    "128": "vite.svg"
+    "16": "./leetbot.jpg.png",
+    "48": "./leetbot.jpg.png",
+    "128": "./leetbot.jpg.png"
   },
   "action": {
     "default_popup": "index.html",
-    "default_icon": "vite.svg"
+    "default_icon": "./leetbot.jpg.png"
   }
 }
