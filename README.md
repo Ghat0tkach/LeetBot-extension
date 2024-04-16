@@ -16,7 +16,7 @@ Welcome to LeetBot, your personal assistant for tackling LeetCode questions with
 
 Explore the capabilities of LeetBot by watching our demo video:
 
-https://github.com/Ghat0tkach/LeetBot-extension/assets/59855919/e07679fa-66da-4a3d-86da-cb0a7d09d1ff
+https://github.com/Ghat0tkach/LeetBot-extension/assets/59855919/556cda0d-96d1-4cd2-aa87-80e71dd1a8d0
 
 ## Loading an Unpacked Extension
 
@@ -30,6 +30,10 @@ To load an unpacked extension in Microsoft Edge for development or testing purpo
    - Open Microsoft Edge.
    - Click on the menu icon (three horizontal dots) located in the top-right corner of the browser window.
    - Navigate to "Extensions" from the dropdown menu.
+
+
+
+
 
 3. Enable Developer Mode:
    - In the Extensions page, locate the toggle switch for "Developer mode" and enable it.
