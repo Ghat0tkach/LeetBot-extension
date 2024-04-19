@@ -1,5 +1,6 @@
 # LEETBOT: Your Personal LeetCode Assistant
 
+## NOW AVAILABLE ON MICROSOFT EDGE STORE : [GET HERE!](https://microsoftedge.microsoft.com/addons/detail/leetbot/)
 <p align="center">
   <img src="https://github.com/Ghat0tkach/LeetBot/assets/59855919/d108c510-e2d8-4c47-aea1-40485d55135e" alt="LeetBot" width="20%" height="20%">
 </p>
